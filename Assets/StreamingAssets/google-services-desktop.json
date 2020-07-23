@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "994455142181",
+    "firebase_url": "https://aritemmanager.firebaseio.com",
+    "project_id": "aritemmanager",
+    "storage_bucket": "aritemmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994455142181:android:bfd3af095db88d260e24cc",
+        "android_client_info": {
+          "package_name": "com.Minoken.ARPriItemManager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994455142181-2vsomavbmm1l6tp8lhudlmcicmibr7vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs8Z9C6lGZT4uCb0SSRSjYI8SWfPBjVJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994455142181-2vsomavbmm1l6tp8lhudlmcicmibr7vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994455142181:android:03cee83125b9ec870e24cc",
+        "android_client_info": {
+          "package_name": "com.Minoken.FirebaseTest2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994455142181-2vsomavbmm1l6tp8lhudlmcicmibr7vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs8Z9C6lGZT4uCb0SSRSjYI8SWfPBjVJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994455142181-2vsomavbmm1l6tp8lhudlmcicmibr7vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
